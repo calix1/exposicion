@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">today</string>
+    <string name="facebook_app_id">785235525185860</string>
+    <string name="cancel_login">entrar</string>
+    <string name="error_login">ocurrio un error</string>
+    <string name="welcome">Bienvenido</string>
+    <string name="logout">Salir</string>
+</resources>
